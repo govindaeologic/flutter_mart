@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "832182128422",
+    "project_id": "fluttermart-6dc3f",
+    "storage_bucket": "fluttermart-6dc3f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832182128422:android:76bfe3d036b26708053be7",
+        "android_client_info": {
+          "package_name": "com.example.flutter_mart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeUwxMr9m8swXcZqLyUVVQRqIPM9wtT-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
